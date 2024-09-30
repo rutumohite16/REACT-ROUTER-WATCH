@@ -1,0 +1,93 @@
+.day{
+    height: 100px;
+    width: 90px;
+    background-color: #FF2020;
+    text-align: center;
+    color: white;
+    font-size: 20px;
+   border-radius: 5px;
+   font-size: 30px;
+   margin-top: -80px;
+   margin-left: 40px;
+   position: relative;
+}
+.day:hover{
+    background-color: transparent;
+}
+.blog_items a{
+    text-decoration: none;
+    color: black;
+}
+.blog_items a:hover{
+    color:#FF2020 ;
+}
+.blog_items{
+    background-color: white;
+    
+}
+.paraa{
+    font-size: 17px;
+    color: #7B7B77;
+}
+.search1{
+    width: 200px;
+    height: 40px;
+    margin-left: 75px;
+   
+}
+.searchicon{
+    width: 50px;
+    height: 40px;
+    background-color:orangered;
+}
+.search2{
+    width: 250px;
+    background-color: #FF2020;
+    border: transparent;
+}
+.side{
+    background-color: #FBF9FF;
+    width: 400px;
+    height: 150px;
+    align-items: center;
+  
+}
+
+.side2{
+    background-color: #FBF9FF;
+    width: 400px;
+    height: 500px;
+    font-size: 20px;
+   
+}
+.aa{
+    list-style: none;
+}
+.aa a:hover{
+    color: #FF2020;
+}
+.hello a{
+    text-decoration: none;
+    color: black;
+    font-style: italic;
+    font-size: 18px;
+}
+.hello a:hover{
+    color: #FF2020;
+}
+.hello{
+    font-size: 17px;
+}
+.side3{
+    background-color: #FBF9FF;
+    width: 400px;
+    height: 400px;
+    font-size: 20px;
+
+}
+.sub-btn{
+    background-color: #FF2020;
+    color: white;
+    border: transparent;
+    width: 230px;
+}

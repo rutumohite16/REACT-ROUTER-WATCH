@@ -1,0 +1,82 @@
+@media(min-width:320px){
+  .shop{
+    width: 100%;
+    /* height: 100%; */
+  }
+  .shop1{
+    background-image: url('./Background-img/about_hero.png');
+   height: 300px;
+   width: 100%;
+  }
+  .watch{
+    font-size: 30px;
+    font-weight: 600;
+    display: flex;
+    justify-content: center; 
+     align-items: center;
+  }
+  .high a{
+    text-decoration: none;
+    color: black;
+    font-size: 18px;
+    font-weight: 400;
+  }
+  .arrivals{
+  border-bottom: 2px solid  #FF2020;
+}
+.arrivals2:hover{
+  border-bottom: 2px solid  #FF2020;
+}
+.bus{
+  width: 40px;
+  height: 40px;
+ background-color:transparent;
+  margin-left: 20px;
+  margin-top: 10px;
+  border: 1px solid black;
+}
+}
+.bus a{
+  color: black;
+}
+
+
+
+@media(min-width:992px){
+.shop1{
+   background-image: url('./Background-img/about_hero.png');
+  height: 490px;
+  width: 100%;
+}
+.watch{
+    font-size: 80px;
+    font-weight: 600;
+    display: flex;
+    justify-content: center; 
+     align-items: center;
+}
+.high a{
+  text-decoration: none;
+  color: black;
+  font-size: 18px;
+  font-weight: 400;
+}
+.arrivals{
+  border-bottom: 2px solid  #FF2020;
+}
+.arrivals2:hover{
+  border-bottom: 2px solid  #FF2020;
+}
+.bus{
+  width: 40px;
+  height: 40px;
+  background-color:transparent;
+  margin-left: 20px;
+  margin-top: 10px;
+  border: 1px solid black;
+}
+.bus a{
+  color: black;
+}
+
+}

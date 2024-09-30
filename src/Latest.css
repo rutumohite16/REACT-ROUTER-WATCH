@@ -1,0 +1,61 @@
+@media(min-width:320px){
+    .gallery{
+        margin-top: 150px;
+}
+.foam{
+    font-size: 40px;
+}
+.cart{
+    background-color: white;
+    color: blue;
+    border-radius: 5px;
+   
+}
+.cart:hover{
+    background-color: blue;
+    color: white;
+  
+}
+.btn1{
+    outline: blue;
+    width: 200px;
+    height: 60px;
+}
+
+}
+.promotions{
+    background-color: #191D34;
+    color: white;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+
+
+
+@media(min-width:992px){
+.gallery{
+    margin-top: 150px;
+}
+.cart{
+    background-color: white;
+    color: blue;
+    border-radius: 5px;
+   
+}
+.cart:hover{
+    background-color: blue;
+    color: white;
+}
+.promotions{
+    background-color: #191D34;
+    color: white;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+.updates{
+    margin-top: 150px;
+}
+}

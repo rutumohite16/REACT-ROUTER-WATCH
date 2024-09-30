@@ -1,0 +1,26 @@
+.cartimg{
+    height: 100px;
+    width: 100px;
+}
+.one{
+    height: 50px;
+    width: 50px;
+    
+}
+.lastbttn{
+    display: flex;
+    justify-content: space-between;
+}
+.xyz{
+    height: 60px;
+    width: 200px;
+    background-color:blue;
+    color: white;
+    border-radius: 5px;
+    border: transparent;
+}
+.one{
+    height: 50px;
+    width: 50px;
+    border: 1px solid black;
+}
